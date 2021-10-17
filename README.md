@@ -1,7 +1,7 @@
 .
 
 
-> # Get started with IBM Cloud Pak for Data
+> # [Get started with IBM Cloud Pak for Data](https://developer.ibm.com/learningpaths/cloud-pak-for-data-learning-path/)
 > 
 
 
